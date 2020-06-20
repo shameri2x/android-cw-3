@@ -1,0 +1,5 @@
+س1 : edittxt
+س2 : font
+س3 : backgroundtint
+س4 : logcat
+س5 :خطا 
